@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.reasons {
+    padding: 20px;
+}
+
+.reasons h2 {
+    color: #333;
+}
+
+.reasons ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.reasons li {
+    margin-bottom: 10px;
+}
+
+.reasons li strong {
+    color: #333;
+}
+
+.conclusion {
+    padding: 20px;
+    background-color: #fff;
+    color: #333;
+}
